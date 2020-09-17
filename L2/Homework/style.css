@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1498457764404-1790a9bbc781?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+    height: 100%;
+    width: 100%;
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: scroll;
+
+}
+
+.divClass {
+    background-color: teal;
+    width: 400px;
+    color:white;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+.thirdDiv {
+
+    text-align: center;
+    background-color: teal;
+    width: 400px;
+    align-items: center;
+    margin: auto;
+
+}
+
+
+
