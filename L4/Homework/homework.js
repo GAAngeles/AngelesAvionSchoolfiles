@@ -7,13 +7,13 @@ const newString = "Hello World" ;
 const newNum = 14;
 
 //create a boolean variable
-const newBool = ON;
+const newBool = true;
 
 //solve the following math problem
 const newSubtract = 10 - 5 === 5;
 
 //Solve the following math problem
-const newMultiply = 10 * 4 === 40 ;
+const newMultiply = 10 * 4 === 40;
 
 //Solve the following math problem:
 const newModulo = 21 % 5 === 1 ;
@@ -28,10 +28,8 @@ const newModulo = 21 % 5 === 1 ;
 //Example 1:
 function returnString(str) {
   //simply return the string provided: str
- console.log(str)
+return str;
 }
-
-returnString(newString)
 
 function add(a, b) {
   // x and y are numbers
@@ -41,7 +39,7 @@ function add(a, b) {
   return sum;
 }
 
-console.log(add(10, 4))
+//console.log(add(10, 4))
 
 function subtract(x, y) {
   // subtract y from x and return the value
@@ -50,7 +48,7 @@ function subtract(x, y) {
   return difference;
 }
 
-console.log(subtract(18, 4))
+//console.log(subtract(18, 4))
 
 function multiply(x, y) {
   // multiply x by y and return the value
