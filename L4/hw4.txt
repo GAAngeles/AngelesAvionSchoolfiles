@@ -1,0 +1,13 @@
+Variables are like memory cards that hold data. They are like memory cards that you can assign values to.
+
+Strings are basically texts in Javascript. They are always defined inside quotation marks "" ''
+
+Fucntions then in turn are commands or tasks where you attach values to
+
+Arguments are more detailed values that return for the functions
+
+Return is the command or function that tells the system what to show or the face value of the whole function. 
+
+'if' statements is a list that states a set of conditions that determine what result to show based on which condition was met
+
+Boolean are values that determine the result of a function is whether true or false
