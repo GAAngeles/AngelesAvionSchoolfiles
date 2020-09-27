@@ -1,0 +1,7 @@
+For are javascript functions that are used to create loops. it's like Dr Strange seeing infinite possibilities only to stop at a certain point
+
+&& combines 2 Boolean values that only return true if both are true otherwise it returns false. In a way, the whole statement has to be true
+
+|| then in turn combines 2 Boolean values but returns true just as long as one statement is true. 
+
+! means "not" or rather the exact opposite of a Boolean value
