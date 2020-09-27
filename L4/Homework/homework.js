@@ -35,8 +35,7 @@ function add(a, b) {
   // x and y are numbers
   // add x and y together and return the value
   // code here
-  const sum = a + b;
-  return sum;
+  return = a + b;
 }
 
 //console.log(add(10, 4))
@@ -44,8 +43,7 @@ function add(a, b) {
 function subtract(x, y) {
   // subtract y from x and return the value
   // code here
-  const difference = x - y;
-  return difference;
+  return = x - y;
 }
 
 //console.log(subtract(18, 4))
@@ -53,8 +51,7 @@ function subtract(x, y) {
 function multiply(x, y) {
   // multiply x by y and return the value
   // code here
-  const product = x * y;
-  return product;
+return = x * y;
 }
 
 console.log(multiply(7, 2))
@@ -62,8 +59,7 @@ console.log(multiply(7, 2))
 function divide(x, y) {
   // divide x by y and return the value
   // code here
-  const quotient = x / y;
-  return quotient;
+return = x / y;
 }
 
 console.log(divide(28, 2))
