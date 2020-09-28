@@ -1,0 +1,1 @@
+Arrays are variables in a way that hold multiple values at a single time. Think of it as a filing cabinet. one cabinet, several inputs.
